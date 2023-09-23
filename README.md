@@ -1,4 +1,4 @@
-<h1>Subway Surfers Demo</h1>
+<h1 align="center">Subway Surfers Demo</h1>
 <h2>Game dev practice</h2>
 <span>In this game implement:</span>
 <ul>
